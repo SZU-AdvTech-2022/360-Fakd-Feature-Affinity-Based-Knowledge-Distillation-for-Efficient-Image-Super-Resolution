@@ -1,4 +1,4 @@
-@inproceedings{REPO-361,
+@inproceedings{REPO-360,
     author = "He, Zibin and Dai, Tao and Lu, Jian and Jiang, Yong and Xia, Shu-Tao",
     booktitle = "2020 IEEE International Conference on Image Processing (ICIP)",
     pages = "518--522",
